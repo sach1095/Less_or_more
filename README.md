@@ -1,30 +1,42 @@
 # Less_or_more
 My first programme in C
 
-Whene i start programing in C, i was now for learning i will do practice, and what more good then write a mini-game ?
+----------------------------------------------------------------------------------------------
 
-For dis reason i startwitch Less_or_more the most simple game ever.
+How play ?
 
-Yes is simple, but not when you need do it in language who not know.
+gcc main.c ; ./a.out
 
-What i learn in the first version ?
+Have a good time.
 
- - How compile C file
- - What is header file (librairy)
+----------------------------------------------------------------------------------------------
+
+History.
+
+When I start programing in C, i knew that I need practise to leanr, and what better then write a mini-game ?
+
+For this reason I started with Less_or_more the most simple game ever.
+
+Yes it's simple, but not when you have to do it in language you don't know.
+
+What did I learn in the first version ?
+
+ - How to compile C file
+ - What is an header file (librairy)
  - While, do while, if, else if
  - Switch
  - Srand (how get a random number)
  - Printf
  - Scanf
 
-One week afther learning and training C programing, i decide to add my new stuff on it.
+Three days after learning and training C langage, I decided to add new stuffs on it.
 
-So i create the V2, what i add to it ?
+So I create the V2. What did I add to it ?
 
-I not add new function, i was learn how write clean code.
+I didn't add new functions, but I learned how to write a clean code.
 
-My first version was do 113 line.
+My first version contained 113 lines.
 
-The V2 ? juste 64 line for the same thing juste more clean.
+The V2 ? just 64 lines, but cleaner.
 
-Thanks You if someone read dis one days.
+Thanks You for reanding it, if someone do it one day...
